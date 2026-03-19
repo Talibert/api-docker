@@ -52,9 +52,7 @@ Com a aplicação rodando, acesse: http://localhost:8080/swagger-ui/index.html
 
 Lá você encontrará detalhes de todos os endpoints, tipos de retorno (Records) e poderá testar as chamadas.
 
-## 🚀 Integração com Bruno / Postman
-Com a aplicação rodando, acesse http://localhost:8080/v3/api-docs.
+## 🚀 Integração com Bruno
+Abra o Bruno e importe via url usando o link http://localhost:8080/v3/api-docs.
 
-Salve o JSON gerado ou copie a URL e use a função Import do Bruno ou Postman (escolha a opção OpenAPI/Swagger).
-
-Sincronizar: Sempre que criar um novo Controller, repita o processo para atualizar sua coleção de testes automaticamente.
+Isso vai trazer automaticamente as requisições do sistema.
